@@ -1,0 +1,1 @@
+An Assignment Tracker that I made in Java. It tracks tasks with their deadline and groups them based on their priority and difficulty. A progress bar is implemented using the tasks and their groupings. The database implementation was done using SQL Lite.
